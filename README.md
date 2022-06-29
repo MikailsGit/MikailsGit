@@ -1,4 +1,4 @@
 - Hi ! You are in Mikail's GitHub !
-- I’m a SwiftUI iOS developer 
+- I’m a Swift iOS developer 
 - Specialised in the amazing SwiftUI framework
 - Student at the Apple Developer Academy

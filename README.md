@@ -1,7 +1,7 @@
 You are in Mikail's GitHub !
 
 I am
-- AR/VR Developer: iOS, Android AR, Quest, Vision Pro
+- AR/VR Developer: iOS, Android, Quest, Vision Pro
 - Game Developer: web, mobile, pc, VR
 - Website developer, for fun
 
@@ -13,7 +13,7 @@ Skills:
 
 Coding Languages:
 - Master in C#
-- Mater in Swift, specialized in SwiftUI)
+- Mater in Swift, specialized in SwiftUI
 - C++ begginer
 - TypeScript, Javascript novice
 - Python amateur
